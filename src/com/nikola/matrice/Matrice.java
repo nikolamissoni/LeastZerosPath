@@ -85,7 +85,15 @@ public class Matrice {
 	}
 	
 	private static int findWayWithLeastZeros(int[][] countZerosMatrix) {
-		// TODO Auto-generated method stub
+		
+		//h=18
+		//g++ as we move away
+		//weight = number of zeros
+		
+		/***
+		 * get current field
+		 * 
+		 */
 		return 0;
 	}
 	
